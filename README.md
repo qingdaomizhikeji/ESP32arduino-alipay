@@ -9,8 +9,10 @@ ESP32arduino-alipay Get blink from alipaypayment，拿到了支付宝付的钱�
 把文件都下载下来 把库先装上
 然后把Arduino 代码复制到IDE里就行了。应该就可以跑了
 
-我公司为ISV可以帮助各位提交资料帮助申请当面付
+我公司是ISV可以帮助各位提交资料帮助申请当面付
 我在线乞讨，恳请大家让我们帮您开通好赚一点点手续费返佣（仅有千2不到）
+
+
 签约成功后务必把
 sys_service_provider_id设置成2088931278114101我才能拿到回扣
 
