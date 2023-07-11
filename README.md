@@ -12,7 +12,9 @@ ESP32arduino-alipay Get blink from alipaypayment，拿到了支付宝付的钱�
 
 我公司是ISV可以帮助各位提交资料帮助申请当面付
 我在线乞讨，恳请大家让我们帮您开通好赚一点点手续费返佣（仅有千2不到）
-
+支付宝捐赠地址772875181@qq.com
+paypel捐赠地址qq772875181@gmail.com
+在线乞讨
 
 签约成功后务必把
 sys_service_provider_id设置成2088931278114101我才能拿到回扣
