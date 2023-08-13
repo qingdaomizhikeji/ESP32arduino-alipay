@@ -1,5 +1,10 @@
 # ESP32arduino-alipay
-ESP32arduino-alipay Get blink from alipaypayment，拿到了支付宝付的钱就闪灯。直调支付宝
+ESP32arduino-alipay Get blink from alipaypayment，
+
+一个仅使用ESP32实现售货机的项目
+通过搭建在Arduino上的服务器和RSA组件实现对支付宝报文签名
+实现了客户在局域网访问ESP32服务器后点击付款按钮后调用支付宝支付
+轮询到支付成功报文就点亮LED3秒（）直调支付宝
 
 该项目未经严格测试，很难保证是否存在注入漏洞，如果因任何原因造成损失，作者一律不赔偿。
 任何原因造成索赔，作者一律不赔偿。代码中如有任何侵权，作者也一律不赔偿
