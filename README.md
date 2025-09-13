@@ -1,4 +1,4 @@
-# ESP32arduino-alipay
+# ESP32arduino-alipay 基于ESP32实现的支付宝售货机项目
 ESP32arduino-alipay Get blink from alipaypayment，
 
 一个仅使用ESP32实现售货机的项目
